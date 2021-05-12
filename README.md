@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript, Python, & React.js 
 - 💞️ I’m looking to collaborate on Discord Bot & Web Development 
-- 📫 How to reach me @Johny!#0031 
+- 📫 How to reach me Johny!#0031 
 
 <!---
 CashoutJohnny/CashoutJohnny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
