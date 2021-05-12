@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @CashoutJohnny
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript, Python, & React.js 
 - 💞️ I’m looking to collaborate on Discord Bot & Web Development 
 - 📫 How to reach me Johny!#0031 
